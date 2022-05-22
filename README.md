@@ -1,5 +1,5 @@
 ---
-# summery
+# Hello World
 
-I'm **Amal Alwadah** fresh gradut of Almaarefa Univesity with degree in Information Systems.
+This is a readme for our first project!
 ---
